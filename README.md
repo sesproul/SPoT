@@ -1,0 +1,4 @@
+SPoT
+====
+
+Homework 4
